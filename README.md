@@ -82,6 +82,22 @@ Substitua os arquivos dentro da pasta `images/` e mantenha os nomes
 
 ---
 
+## 🎬 Projeto (clique para ver)
+
+<p align="center">
+  <img src="imagens/images (0).png" width="30%" />
+  <img src="imagens/images (2).png" width="30%" />
+  <img src="imagens/images (3).png" width="30%" />
+</p>
+
+<p align="center">
+  <img src="imagens/images (5).png" width="30%" />
+  <img src="imagens/images (6).png" width="30%" />
+  <img src="imagens/images (1).png" width="30%" />
+</p>
+
+---
+
 ## 🌐 Me encontre aqui
 
 - **LinkedIn:** https://www.linkedin.com/in/luiz-inhesta-341b4b311/
